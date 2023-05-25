@@ -1,0 +1,10 @@
+[package]
+name = "dfs88_fern_sim"
+version = "0.1.0"
+edition = "2021"
+description = "test module"
+license = "MIT"
+authors = ["dfs88@qq.com"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
